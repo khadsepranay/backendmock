@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "username": "khadsepranay",
+      "email": "pranitkhadse20@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "khadsepranay",
+      "email": "pranitkhadse21@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "companies": [
+    {
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 65656,
+      "cost_per_share": 233233,
+      "price_action": 65656,
+      "id": 1
+    },
+    {
+      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+      "company_name": "HDFC Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": 5656,
+      "cost_per_share": 32326,
+      "price_action": 5656562,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+      "company_name": "HDFC Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": 50000,
+      "cost_per_share": 4210,
+      "price_action": 12
+    },
+    {
+      "id": 4,
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 20000,
+      "cost_per_share": 2132,
+      "price_action": 4
+    }
+  ],
+  "bought": [
+    {
+      "id": 3,
+      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+      "company_name": "HDFC Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": 50000,
+      "cost_per_share": 4210,
+      "price_action": 12,
+      "quantity": 20
+    },
+    {
+      "id": 4,
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 20000,
+      "cost_per_share": 2132,
+      "price_action": 4,
+      "quantity": 40
+    },
+    {
+      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+      "company_name": "HDFC Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": 5656,
+      "cost_per_share": 32326,
+      "price_action": 5656562,
+      "id": 2,
+      "quantity": 20
+    }
+  ]
+}
